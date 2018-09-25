@@ -5,7 +5,7 @@
     <title>Quick start. Local server-side application with UI</title>
 </head>
 <body>
-<div id="auth-data">OAuth 2.0 data from REQUEST: HOMETEST
+<div id="auth-data">OAuth 2.0 data from REQUEST: DAMUTEST
     <PRE>
     <?
         print_r($_REQUEST);
